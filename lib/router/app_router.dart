@@ -1,5 +1,3 @@
-import 'package:chucknorris_app/features/favourites/screens/favourives_screen.dart';
-import 'package:chucknorris_app/features/search/screens/search_screen.dart';
 import 'package:go_router/go_router.dart';
 
 import '../features/features.dart';
